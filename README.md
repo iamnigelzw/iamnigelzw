@@ -8,7 +8,7 @@ I learn best by building things and sharing what I learn.
 
 `Maths for ML` `Software Engineering` `Machine Learning` `Deep Learning` `Generative AI`
 
-🌐 [iamnigel.co](https://iamnigel.co) · 𝕏 [@iamnigelzw](https://x.com/amnigelzw) · 💼 [LinkedIn](https://www.linkedin.com/in/nigeljaure/)
+🌐 [iamnigel.co](https://iamnigel.co) · 𝕏 [@amnigelzw](https://x.com/amnigelzw) · 💼 [LinkedIn](https://www.linkedin.com/in/nigeljaure/)
 
 ---
 
