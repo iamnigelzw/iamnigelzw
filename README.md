@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nigel 👋
 
-<!--
-**iamnigelzw/iamnigelzw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer → AI Engineer**
 
-Here are some ideas to get you started:
+Full-stack developer at [**ContiPay**](https://contipay.co.zw), currently learning AI and machine learning. Starting with maths for ML, then moving into machine learning, deep learning, and generative AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I learn best by building things and sharing what I learn.
+
+`Maths for ML` `Software Engineering` `Machine Learning` `Deep Learning` `Generative AI`
+
+🌐 [iamnigel.co](https://iamnigel.co) · 𝕏 [@iamnigelzw](https://x.com/iamnigelzw) · 💼 [LinkedIn](https://www.linkedin.com/in/nigeljaure/)
+
+---
+
+* 🔭 Currently building small ML projects
+* 🌱 Currently learning maths for ML, then deep learning
+* 💬 Ask me about software development or AI
+* 📫 Reach me: [iamnigel.co](https://iamnigel.co)
